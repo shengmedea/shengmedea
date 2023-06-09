@@ -1,5 +1,5 @@
 ### Hi there 👋
-- senhor me ajuda
+- senhor me ajuda😔
 <!--
 **shengmedea/shengmedea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![]()
-[Imagem](link-do-site)!(https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
-
-
-
+![](https://media.tenor.com/VrNYXs-O3WwAAAAC/sad-cat.gif)
